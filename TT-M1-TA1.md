@@ -116,7 +116,7 @@ Imágenes de las evidencias de la terminal de GitBash:
 
 !\[Evidencia 2](imagenes/evidencia2.png)
 
-
+NOTA: Si no se visualizan la img, estan en la carpeta imagenes en la raiz de este directorio.
 
 
 
