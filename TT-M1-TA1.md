@@ -112,9 +112,9 @@ Necesario tener claro los siguientes temas:
 
 Imágenes de las evidencias de la terminal de GitBash:
 
-!\[Gráfico de barras](imagenes/evidencia1.png)
+!\[Evidencia 1](imagenes/evidencia1.png)
 
-!\[Gráfico de barras](imagenes/evidencia2.png)
+!\[Evidencia 2](imagenes/evidencia2.png)
 
 
 
