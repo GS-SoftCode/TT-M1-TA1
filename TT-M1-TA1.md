@@ -1,4 +1,4 @@
-\# Práctica de comandos de Linux
+# Práctica de comandos de Linux
 
 Estudiante: Gabriel Sotomayor
 
@@ -8,7 +8,7 @@ Duración:
 
 
 
-\## Fundamentos
+## Fundamentos
 
 
 
@@ -16,7 +16,7 @@ GitBash es una aplicación que proporciona una interfaz de línea de comandos es
 
 
 
-\## Conocimientos previos
+## Conocimientos previos
 
 
 
@@ -27,7 +27,7 @@ Necesario tener claro los siguientes temas:
 
 
 
-\## Objetivos
+## Objetivos
 
 
 
@@ -35,7 +35,7 @@ Necesario tener claro los siguientes temas:
 
 
 
-\## Equipo necesario:
+## Equipo necesario:
 
 
 
@@ -44,7 +44,7 @@ Necesario tener claro los siguientes temas:
 
 
 
-\## Material de apoyo
+## Material de apoyo
 
 
 
@@ -52,61 +52,61 @@ Necesario tener claro los siguientes temas:
 
 
 
-\## Procedimiento
+## Procedimiento
 
 
 
 * Crear una estructura de carpetas:
 
-\-En tu directorio de trabajo, crea una carpeta llamada proyecto\_comandos.
+-En tu directorio de trabajo, crea una carpeta llamada proyecto\_comandos.
 
-\-Dentro de proyecto\_comandos, crea tres subcarpetas: documentos, imagenes y scripts.
+-Dentro de proyecto\_comandos, crea tres subcarpetas: documentos, imagenes y scripts.
 
 
 
 * Manipulación de archivos:
 
-\-Dentro de la carpeta documentos, crea un archivo de texto llamado notas.txt.
+-Dentro de la carpeta documentos, crea un archivo de texto llamado notas.txt.
 
-\-Agrega al menos tres líneas de texto en notas.txt utilizando un editor de texto en la terminal (nano, vim) o con redireccionamiento (echo).
+-Agrega al menos tres líneas de texto en notas.txt utilizando un editor de texto en la terminal (nano, vim) o con redireccionamiento (echo).
 
-\-Copia el archivo notas.txt a la carpeta scripts y cambia su nombre a backup\_notas.txt.
+-Copia el archivo notas.txt a la carpeta scripts y cambia su nombre a backup\_notas.txt.
 
-\-Mueve el archivo backup\_notas.txt a la carpeta imágenes.
+-Mueve el archivo backup\_notas.txt a la carpeta imágenes.
 
 
 
 * Redirección y concatenación:
 
-\-Crea un archivo llamado resumen.txt en documentos.
+-Crea un archivo llamado resumen.txt en documentos.
 
-\-Redirecciona el contenido de notas.txt a resumen.txt.
+-Redirecciona el contenido de notas.txt a resumen.txt.
 
-\-Añade una nueva línea de texto a resumen.txt sin sobrescribir su contenido.
+-Añade una nueva línea de texto a resumen.txt sin sobrescribir su contenido.
 
 
 
 * Eliminación de archivos y carpetas:
 
-\-Elimina el archivo backup\_notas.txt de la carpeta imágenes.
+-Elimina el archivo backup\_notas.txt de la carpeta imágenes.
 
-\-Elimina la carpeta imágenes (solo si está vacía).
+-Elimina la carpeta imágenes (solo si está vacía).
 
 
 
 * Entrega:
 
-\-Vuelca el contenido del comando history a un archivo llamado tarea-s1-nombre\_apellido.txt utilizando tuberías.
+-Vuelca el contenido del comando history a un archivo llamado tarea-s1-nombre\_apellido.txt utilizando tuberías.
 
-\-Sustituye "nombre\_apellido" por tu nombre y apellido correspondiente.
+-Sustituye "nombre\_apellido" por tu nombre y apellido correspondiente.
 
-\-Luego, sube el archivo al repositorio junto al informe.
+-Luego, sube el archivo al repositorio junto al informe.
 
-\-Adjunta a esta entrega un archivo de audio .mp3 de 60 segundos con tus palabras lo que has aprendido en este tema.
+-Adjunta a esta entrega un archivo de audio .mp3 de 60 segundos con tus palabras lo que has aprendido en este tema.
 
 
 
-\## Resultados
+## Resultados
 
 
 
