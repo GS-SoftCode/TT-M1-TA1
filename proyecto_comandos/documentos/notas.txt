@@ -1,0 +1,3 @@
+Este es mi primer texto de archivo escrito con nano.
+Me encanta esta forma de trabajar.
+Podría acostumbrarme a esto.

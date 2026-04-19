@@ -1,0 +1,30 @@
+     49  history
+   50  mkdir proyecto_comandos
+   51  cd proyecto_comandos/
+   52  mkdir documentos imagenes scripts
+   53  cd documentos/
+   54  touch notas.txt
+   55  nano notas.txt 
+   56  cp notas.txt scripts/
+   57  cp notas.txt /scripts
+   58  cp notas.txt ../scripts
+   59  cd ../scripts
+   60  mv notas.txt backup_notas.txt
+   61  cd ../documentos
+   62  touch resumen.txt
+   63  sort < notas.txt 
+   64  sort < notas.txt >> resumen.txt 
+   65  echo "Pensé que sería más difícil hacer esto." >> resumen.txt 
+   66  cd ../scripts/
+   67  ls
+   68  mv backup_notas.txt ../imagenes/
+   69  cd ../imagenes/
+   70  ls
+   71  rm backup_notas.txt 
+   72  cd ..
+   73  rm -r imagenes/
+   74  touch tarea-s1-Gabriel_Sotomayor.txt
+   75  history
+   76  history | tail -n 26 >> tarea-s1-Gabriel_Sotomayor.txt 
+   77  history | tail -n 27 >> tarea-s1-Gabriel_Sotomayor.txt 
+   78  history | tail -n 30 >> tarea-s1-Gabriel_Sotomayor.txt 
